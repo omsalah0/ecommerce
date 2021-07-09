@@ -1,5 +1,5 @@
 # ecommerce
-the project focus on learning Spring And Java to develop website with the very common approach and features on web development
+The project focus on learning Spring And Java to develop website with the very common approach and features on web development
 
 # Module Diagrams
 
