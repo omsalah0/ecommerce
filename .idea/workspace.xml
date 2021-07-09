@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="emusicStore:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a08b4273-ccd2-4c3d-9ae5-6b19f27fa9b3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="estore_database_tracker@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="estore_database_tracker@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="estore_database_tracker@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="estore_database_tracker: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="estore_database_tracker@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="estore_database_tracker: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="cart: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="estore_database_tracker@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="estore_database_tracker: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="cartitem: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="estore_database_tracker@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="estore_database_tracker: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="order: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Jsp File" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ipNYkKY4rQV8nvb29xZCfSqiQu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="G:/projects_Spring Course/hibernate" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.eMusicStore.entity" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.eMusicStore.Annotation" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\E-Commerce Website\Project\src\main\webapp\WEB-INF\resources" />
+      <recent name="G:\E-Commerce Website\Project\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.launcher">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eMusicStore.Problems.Solution" />
+      <module name="emusicStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eMusicStore.Problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eMusicStore.Services.Solution" />
+      <module name="emusicStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eMusicStore.Services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="launcher" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.37" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="emusicStore:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/emusicStore" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_emusicStore" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="21252" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="emusicStore:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringGeneralSettings">
+    <option name="allowAutoConfigurationMode" value="true" />
+    <option name="showMultipleContextsPanel" value="false" />
+    <option name="showProfilesPanel" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a08b4273-ccd2-4c3d-9ae5-6b19f27fa9b3" name="Default Changelist" comment="" />
+      <created>1602600622812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602600622812</updated>
+      <workItem from="1602600627623" duration="5646000" />
+      <workItem from="1602687325911" duration="7205000" />
+      <workItem from="1602772416528" duration="2637000" />
+      <workItem from="1602863417403" duration="9558000" />
+      <workItem from="1602946019768" duration="565000" />
+      <workItem from="1603231375561" duration="1183000" />
+      <workItem from="1603292108558" duration="591000" />
+      <workItem from="1603377234673" duration="3933000" />
+      <workItem from="1603395795587" duration="3166000" />
+      <workItem from="1603407873671" duration="8028000" />
+      <workItem from="1603465318912" duration="10057000" />
+      <workItem from="1603548114297" duration="13067000" />
+      <workItem from="1603569987434" duration="3473000" />
+      <workItem from="1603631041138" duration="140000" />
+      <workItem from="1603631287344" duration="22792000" />
+      <workItem from="1603720149164" duration="3726000" />
+      <workItem from="1603725030195" duration="13955000" />
+      <workItem from="1603751925954" duration="5635000" />
+      <workItem from="1603806044741" duration="7516000" />
+      <workItem from="1603819255414" duration="647000" />
+      <workItem from="1603896197037" duration="15617000" />
+      <workItem from="1603986561150" duration="6158000" />
+      <workItem from="1604074246268" duration="11287000" />
+      <workItem from="1604148743217" duration="10528000" />
+      <workItem from="1604240038893" duration="13177000" />
+      <workItem from="1604328611020" duration="2022000" />
+      <workItem from="1604355934359" duration="151000" />
+      <workItem from="1604356244984" duration="3144000" />
+      <workItem from="1604412595662" duration="12733000" />
+      <workItem from="1604444736708" duration="4409000" />
+      <workItem from="1604504647635" duration="624000" />
+      <workItem from="1604680185184" duration="8777000" />
+      <workItem from="1604758496091" duration="8213000" />
+      <workItem from="1604846737164" duration="8767000" />
+      <workItem from="1604937068875" duration="5808000" />
+      <workItem from="1605024211687" duration="584000" />
+      <workItem from="1605095283071" duration="13373000" />
+      <workItem from="1605192339360" duration="5734000" />
+      <workItem from="1605284653508" duration="4957000" />
+      <workItem from="1605368145543" duration="12103000" />
+      <workItem from="1605430756867" duration="1430000" />
+      <workItem from="1605454712678" duration="5408000" />
+      <workItem from="1605538465719" duration="7360000" />
+      <workItem from="1605890287206" duration="9967000" />
+      <workItem from="1605974464430" duration="4459000" />
+      <workItem from="1606223931108" duration="5145000" />
+      <workItem from="1606320516520" duration="6109000" />
+      <workItem from="1606402243627" duration="3922000" />
+      <workItem from="1606492038583" duration="3195000" />
+      <workItem from="1606573727533" duration="2951000" />
+      <workItem from="1606757119599" duration="5919000" />
+      <workItem from="1607093964846" duration="10020000" />
+      <workItem from="1607620703724" duration="11000" />
+      <workItem from="1607703826500" duration="1286000" />
+      <workItem from="1614345275133" duration="723000" />
+      <workItem from="1614350829367" duration="1851000" />
+      <workItem from="1615998350472" duration="322000" />
+      <workItem from="1620053525259" duration="192000" />
+      <workItem from="1621444201778" duration="365000" />
+      <workItem from="1623243942340" duration="1553000" />
+      <workItem from="1623348118743" duration="1018000" />
+      <workItem from="1623349410800" duration="645000" />
+      <workItem from="1623420338024" duration="12691000" />
+      <workItem from="1623511943945" duration="7191000" />
+      <workItem from="1624106592954" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1623349153016">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1623349153016" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1623348236028">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1623348236028" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1620053662736">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1620053662736" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.2.2.RELEASE/spring-security-core-5.2.2.RELEASE.jar!/org/springframework/security/crypto/password/PasswordEncoder.class</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
